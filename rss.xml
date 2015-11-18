@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Studio Scaile]]></title>
         <description><![CDATA[Studio Scaile]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/studio-scaile/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 06:11:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 Nov 2015 06:11:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/studio-scaile/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Red]]></title>
+            <description><![CDATA[<article><h1>Red</h1><img src="https://content-na.drive.amazonaws.com/cdproxy/templink/Fdb8U0Ra57KOmqUOPtqm3y4fRw_pBU2uTRVR2zvw7qgLAYspN/alt/thumb?viewBox=1795"></article>]]></description>
+            <link>https://thegrid.ai/studio-scaile/red/index.html</link>
+            <guid isPermaLink="false">3c5cc4ab-ce43-465f-a010-e849b1fcda46</guid>
+            <pubDate>Wed, 18 Nov 2015 06:10:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[KITTY!]]></title>
             <description><![CDATA[<article><h1>KITTY!</h1><img src="https://content-na.drive.amazonaws.com/cdproxy/templink/PUZhnkNEytYTqpo_HM8Ni9w1y8_ujj8aWktHyaEYsrULAYspN/alt/thumb?viewBox=1795"></article>]]></description>
-            <link>undefinedkitty/index.html</link>
+            <link>https://thegrid.ai/studio-scaile/kitty/index.html</link>
             <guid isPermaLink="false">fd223f13-790f-435d-8b61-462e697b5d94</guid>
             <pubDate>Wed, 18 Nov 2015 06:10:13 GMT</pubDate>
         </item>
