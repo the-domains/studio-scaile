@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Studio Scaile]]></title>
+        <description><![CDATA[Studio Scaile]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 Nov 2015 06:11:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[KITTY!]]></title>
+            <description><![CDATA[<article><h1>KITTY!</h1><img src="https://content-na.drive.amazonaws.com/cdproxy/templink/PUZhnkNEytYTqpo_HM8Ni9w1y8_ujj8aWktHyaEYsrULAYspN/alt/thumb?viewBox=1795"></article>]]></description>
+            <link>undefinedkitty/index.html</link>
+            <guid isPermaLink="false">fd223f13-790f-435d-8b61-462e697b5d94</guid>
+            <pubDate>Wed, 18 Nov 2015 06:10:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
